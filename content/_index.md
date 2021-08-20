@@ -1,19 +1,21 @@
 ---
 ---
 
-I'm **Chris Turner**, a Software Engineer.
+**SOLUCONSULTAS** por ***Romina Hinostroza***
 
-I love all things computer science and maths.
+Un blog sobre tecnología web.
 
-Have a look at some of my working [projects].
+Visita mis [proyectos].
 
-For more check out my academic & professional [resume].
+<!--For more check out my academic & professional [resume]. [@username] -->
 
-Contact me at [@username] or by [email].
+Puedes realizarme preguntas en disqus.
+
+Sígueme en [instagram] novedades recientes y conóceme!
 
 
-
-[projects]: /projects
+[proyectos]: /projects
 [resume]: https://demo.nurlan.co/hugo-vitae/
 [@username]: https://twitter.com/username
-[email]: mailto:email@example.com
+[email]: soluconsultas20@gmail.com
+[instagram]: https://www.intagram.com/soluconsultas
