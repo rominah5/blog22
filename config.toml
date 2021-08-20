@@ -1,4 +1,4 @@
-baseURL = "https://example.com/"
+baseURL = "https://soluconsultas.netlify.app"
 languageCode = "en-US"
 title = "SOLUConsultas"
 # Enable comments by entering your Disqus shortname
