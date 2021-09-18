@@ -2,7 +2,7 @@ baseURL = "https://soluconsultas.netlify.app"
 languageCode = "en-US"
 title = "SOLUConsultas"
 # Enable comments by entering your Disqus shortname
-disqusShortname = ""
+disqusShortname = "soluconsultas"
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
 theme = "hugo-sustain"
